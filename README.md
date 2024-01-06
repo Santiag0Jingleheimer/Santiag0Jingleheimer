@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santiag0Jingleheimer
 - I’m interested in coding and stuff.
-- 🌱 I’m currently learning Python, Intermidiate Python.
+- 🌱 I’m currently learning Python, Intermediate Python.
 - 💞️ I’m looking to collaborate on not much, but if you wanna tell me how to not suck at coding I'm all ears.
 - 📫 How to reach me santiag0.jingleheimer@gmail.com or on Discord at treehugger3884
 
